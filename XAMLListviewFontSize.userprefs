@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iOS/XAMLListviewFontSize.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XAMLListviewFontSize/ListviewDemo.xaml">
+    <Files>
+      <File FileName="XAMLListviewFontSize/ListviewDemo.xaml" Line="17" Column="15" />
+      <File FileName="XAMLListviewFontSize/ListviewDemo.xaml.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
